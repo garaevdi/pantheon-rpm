@@ -1,0 +1,80 @@
+# Pantheon desktop for fedora
+
+Vital components:
+- [ ] elementary-dock
+- [ ] elementary-bluetooth-daemon
+- [ ] elementary-files
+- [ ] elementary-icon-theme
+- [ ] elementary-notifications-daemon
+- [ ] elementary-settings-daemon
+- [ ] elementary-shortcut-overlay
+- [ ] elementary-terminal
+- [ ] gala
+- [ ] ~~granite~~ (in main repo)
+- [ ] ~~granite-7~~ (in main repo)
+- [ ] lightdm-pantheon-greeter
+- [ ] onboard (needed for pantheon-session-settings)
+- [ ] pantheon-agent-polkit
+- [ ] pantheon-default-settings
+- [ ] pantheon-session-settings
+- [ ] pantheon-wayland
+- [ ] switchboard
+  - [ ] switchboard-plug-applications
+  - [ ] switchboard-plug-bluetooth
+  - [ ] switchboard-plug-datetime
+  - [ ] switchboard-plug-desktop
+  - [ ] switchboard-plug-display
+  - [ ] switchboard-plug-keyboard
+  - [ ] switchboard-plug-locale
+  - [ ] switchboard-plug-mouse-touchpad
+  - [ ] switchboard-plug-network
+  - [ ] switchboard-plug-notifications
+  - [ ] switchboard-plug-onlineaccounts
+  - [ ] switchboard-plug-parental-controls
+  - [ ] switchboard-plug-power
+  - [ ] switchboard-plug-printers
+  - [ ] switchboard-plug-security-privacy
+  - [ ] switchboard-plug-sharing
+  - [ ] switchboard-plug-sound
+  - [ ] switchboard-plug-system
+  - [ ] switchboard-plug-useraccounts
+  - [ ] switchboard-plug-wacom
+- [ ] wingpanel
+  - [ ] wingpanel-applications-menu
+  - [ ] wingpanel-indicator-bluetooth
+  - [ ] wingpanel-indicator-datetime
+  - [ ] wingpanel-indicator-keyboard
+  - [ ] wingpanel-indicator-network
+  - [ ] wingpanel-indicator-nightlight
+  - [ ] wingpanel-indicator-notifications
+  - [ ] wingpanel-indicator-power
+  - [ ] wingpanel-indicator-privacy
+  - [ ] wingpanel-indicator-sound
+  - [ ] wingpanel-quick-settings
+- [ ] xdg-desktop-portal-elementary
+
+"Would be great to have" components:
+- [ ] elementary-appcenter
+- [ ] elementary-calculator
+- [ ] elementary-calendar
+- [ ] elementary-camera
+- [ ] elementary-capnet-assist
+- [ ] elementary-code
+- [ ] elementary-contacts
+- [ ] elementary-contractor (???)
+- [ ] elementary-icon-browser
+- [ ] elementary-initial-setup
+- [ ] elementary-installer
+- [ ] elementary-mail
+- [ ] elementary-maps
+- [ ] elementary-monitor
+- [ ] elementary-music
+- [ ] elementary-onboarding
+- [ ] elementary-screenshot
+- [ ] elementary-photos
+- [ ] elementary-sound-theme
+- [ ] elementary-sideload
+- [ ] elementary-tasks
+- [ ] elementary-videos
+- [ ] elementary-wallpapers
+- [ ] plymouth-theme-elementary
